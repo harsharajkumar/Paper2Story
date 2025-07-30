@@ -20,7 +20,6 @@
 - `utils/`: Chunking, evaluation, and data utils
 - `models/`: Saved model weights
 - `app/`: Streamlit frontend
-- `data/`: Input/output parquet files
 
 🚀 **Coming Soon**
 - QA chatbot from story
