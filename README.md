@@ -25,6 +25,3 @@
 - QA chatbot from story
 - End-to-end UI
 
----
-
-Made with ❤️ by Harsha Rajkumar
